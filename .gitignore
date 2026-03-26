@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Packaged skills (generated)
+packaged/*.skill
+
+# Temp files
+*.tmp
+*.log
+
+# User-specific
+.env
